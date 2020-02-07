@@ -1,6 +1,6 @@
 {
   "name": "git-flow",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "GitFlow：团队协助及分支策略",
   "main": "index.js",
   "scripts": {
